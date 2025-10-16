@@ -184,6 +184,7 @@ object-fit: cover;
     padding: 60px 5%;
     flex-wrap: wrap;
     background: #2a1594;
+
 }
 
 .left-second {
@@ -463,5 +464,6 @@ footer button:hover {
     color: #222;
     box-shadow: 0 0 10px aqua, 0 0 20px yellow, 0 0 30px blue;
 }
+
 
 
